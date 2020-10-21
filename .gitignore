@@ -1,0 +1,5 @@
+.idea/
+stream-tester
+.terraform
+infra/terraform.tfstate
+*.tfstate.backup
